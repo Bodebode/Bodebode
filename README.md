@@ -4,7 +4,6 @@
  - 🚀 I love Cypress, I also like codecept.js, playwright.dev & selenium wdio
  - 🌱 Github & Gitlab over Bitbucket etc
  - 📫 How to reach me ... nathan_oj@outlook.com
- - 🤓 Don't be shy now, stop by & say hello, email me.
 
 <!---
 Bodebode/Bodebode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
