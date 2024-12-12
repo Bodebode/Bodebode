@@ -5,7 +5,8 @@
  - 🌱 Github & Gitlab over Bitbucket etc
  - 📫 How to reach me ... nathan_oj@outlook.com
  - 📎 https://www.linkedin.com/in/nathan-ojuolape/
- - random emojis 🧮📌📍🤖🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗
+ - 
+ -  🧮📌📍🤖🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗 random emojis
 
 <!---
 Bodebode/Bodebode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
