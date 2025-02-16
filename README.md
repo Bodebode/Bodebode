@@ -1,5 +1,5 @@
  - 👋 Hi, My name is Nathan, Founder of Ekowest.tv 
- - 👀 I’m a QA Automation Engineer / Software Engineer (in Test & beyond .... 
+ - 👀 I’m a QA Automation Engineer / Software Engineer (in Test & beyond ....)
  - ☕️ I code with Javascript/Typescript & Python.
  - 🚀 I love Playwright.dev, Cypress.js & Selenium 
  - 📫 How to reach me ... nathan_oj@outlook.com
