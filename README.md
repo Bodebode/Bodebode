@@ -1,8 +1,7 @@
- - 👋 Hi, My name is Nathan 
- - 👀 I’m interested in mostly Automation Frameworks and other QA related topics
+ - 👋 Hi, My name is Nathan, Founder of Ekowest.tv 
+ - 👀 I’m a QA Automation Engineer / Software Engineer (in Test & beyond .... 
  - ☕️ I code with Javascript/Typescript & Python.
- - 🚀 I love Playwright.dev, Cypress.js & Selenium wdio
- - 🌱 Github & Gitlab over Bitbucket etc
+ - 🚀 I love Playwright.dev, Cypress.js & Selenium 
  - 📫 How to reach me ... nathan_oj@outlook.com
  - 📎 https://www.linkedin.com/in/nathan-ojuolape/
  
