@@ -1,4 +1,4 @@
- - 👋 Hi, My name is Nathan, Founder of www.Ekowest.tv www.alkeplay.com 
+ - 👋 Hi, My name is Nathan, Founder of www.Ekowest.tv & www.Alkeplay.com 
  - 👀 I’m a QA Automation Engineer / Software Engineer (in Test & beyond ....)
  - ☕️ I code with Javascript/Typescript & Python.
  - 🚀 I love Playwright.dev, Cypress.js & Selenium 
