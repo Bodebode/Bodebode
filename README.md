@@ -5,7 +5,7 @@
  - 📫 How to reach me ... nathan_oj@outlook.com
  - 📎 https://www.linkedin.com/in/nathan-ojuolape/
  
- -  🧮📌📍🤖🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗  Random emojis
+ -  🧮📌📍🤖🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗  
 
 <!---
 Bodebode/Bodebode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
