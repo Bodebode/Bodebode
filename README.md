@@ -1,11 +1,11 @@
  - 👋 Hi, My name is Nathan, Founder of www.Ekowest.tv & www.Alkeplay.com 
  - 👀 I’m a QA Automation Engineer / Software Engineer (in Test & beyond ....)
  - ☕️ I code with Javascript/Typescript & Python.
- - 🚀 I love Playwright.dev, Cypress.js & Selenium 
+ - 🚀 I love Playwright.dev, Cypress.js & Selenium
+ - 🤖 AI & VR Enthusiast
  - 📫 How to reach me ... nathan_oj@outlook.com
  - 📎 https://www.linkedin.com/in/nathan-ojuolape/
- - AI & VR Enthusiast
- -  🧮📌📍🤖🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗  
+ -  🧮📌📍🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗  
 
 <!---
 Bodebode/Bodebode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
