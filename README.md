@@ -2,7 +2,7 @@
  - 👀 I’m a QA Automation Engineer / Software Engineer (in Test & beyond ....)
  - ☕️ I code with Javascript/Typescript & Python.
  - 🚀 I love Playwright.dev, Cypress.js & Selenium
- - 🤖 AI & VR Enthusiast
+ - 🤖 AI, Data & Cybersecurity Enthusiast
  - 📫 How to reach me ... nathan_oj@outlook.com
  - 📎 https://www.linkedin.com/in/nathan-ojuolape/
  -  🧮📌📍🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗  
