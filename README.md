@@ -4,7 +4,6 @@
  - 🚀 I love Playwright.dev, Cypress.js & Selenium
  - 🤖 AI, Data & Cybersecurity Enthusiast
  - 📫 How to reach me ... nathan_oj@outlook.com
- - 📎 https://www.linkedin.com/in/nathan-ojuolape/
  -  🧮📌📍🕸️🚴🏿‍♂️🚧⛓️⛓️‍💥📫📬🖇️🔗  
 
 <!---
