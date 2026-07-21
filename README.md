@@ -1,4 +1,4 @@
- - 👋 Hi, I'm Nathan, I made www.Alkeplay.com & Ekowest.tv & www.Qualichech.tech
+ - 👋 Hi, I'm Nathan, I made www.Alkeplay.com, www.Qualicheck.tech Ekowest.tv
  - 👀 I’m a Technical Cybersecurity professional with a QA Automation & Software Engineering background 
  - ☕️ I code with Javascript/Typescript & Python.
  - 🤖 AI, Data & Cybersecurity Enthusiast
