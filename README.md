@@ -1,5 +1,5 @@
- - 👋 Hi, I'm Nathan, I made www.Alkeplay.com, www.Qualicheck.tech Ekowest.tv
- - 👀 I’m a Technical Cybersecurity professional with a QA Automation & Software Engineering background 
+ - 👋 Hi, I'm Nathan, I made www.Qualicheck.tech, www.Alkeplay.com & Ekowest.tv
+ - 👀 I’m a Technical Cybersecurity Professional with a QA Automation & Software Engineering background 
  - ☕️ I code with Javascript/Typescript & Python.
  - 🤖 AI, Data & Cybersecurity Enthusiast
  - 📫 How to reach me ... nathan_oj@outlook.com
